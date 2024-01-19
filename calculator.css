@@ -1,0 +1,16 @@
+.divch1{
+    text-align: center;
+    margin: auto;
+    border: 10px inset #fb2f0e;
+    width: 525px;
+    height: 221px;
+    border-radius: 14px;
+    background-color: coral;
+}
+
+.form1{
+    background: navajowhite;
+}
+#ch1{
+    margin-left: -26px;
+}
